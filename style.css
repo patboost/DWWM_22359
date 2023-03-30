@@ -3,3 +3,13 @@ h1 {
     background-color: #4b4a4a;
     color: #d2cece;
 }
+
+h2 {
+    width: 80%;
+    background-color: greenyellow;
+    columns: green;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
